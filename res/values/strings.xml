@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Navigation_Drawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="img_desc">header image</string>
+    <string name="page1">Home Page</string>
+    <string name="page2">Gallery Page</string>
+
+    <string-array name="friends">
+        
+        <item>Home</item>
+        <item>Gallery</item>
+        <item>Setting</item>
+        <item>Audio</item>
+        <item>Videos</item>
+    </string-array>
+
+    <array name="nav_icons">
+        
+        <item>@drawable/home</item>
+        <item>@drawable/photos</item>
+        <item>@drawable/setting</item>
+        <item>@drawable/sound</item>
+        <item>@drawable/videos</item>
+    </array>
+
+    <string-array name="friendsOf">
+        <item>Fahad</item>
+        <item>Fahad</item>
+        <item>Fahad</item>
+        <item>Fahad</item>
+        <item>Fahad</item>
+    </string-array>
+
+    <string name="desc_image">Item Image</string>
+    <string name="title_activity_home_page">HomePage</string>
+
+</resources>
